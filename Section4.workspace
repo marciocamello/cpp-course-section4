@@ -1,17 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="Section4" Database="" Version="10000">
   <Project Name="FirstProgram" Path="FirstProgram/FirstProgram.project" Active="No"/>
-  <Project Name="CompilerErrors" Path="CompilerErrors/CompilerErrors.project" Active="Yes"/>
+  <Project Name="CompilerErrors" Path="CompilerErrors/CompilerErrors.project" Active="No"/>
+  <Project Name="CompileWarnings" Path="CompileWarnings/CompileWarnings.project" Active="No"/>
+  <Project Name="LinkerError" Path="LinkerError/LinkerError.project" Active="No"/>
+  <Project Name="LogicErrors" Path="LogicErrors/LogicErrors.project" Active="No"/>
+  <Project Name="ChallengeSolution" Path="ChallengeSolution/ChallengeSolution.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="FirstProgram" ConfigName="Debug"/>
       <Project Name="CompilerErrors" ConfigName="Debug"/>
+      <Project Name="CompileWarnings" ConfigName="Debug"/>
+      <Project Name="LinkerError" ConfigName="Debug"/>
+      <Project Name="LogicErrors" ConfigName="Debug"/>
+      <Project Name="ChallengeSolution" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="FirstProgram" ConfigName="Release"/>
       <Project Name="CompilerErrors" ConfigName="Release"/>
+      <Project Name="CompileWarnings" ConfigName="Release"/>
+      <Project Name="LinkerError" ConfigName="Release"/>
+      <Project Name="LogicErrors" ConfigName="Release"/>
+      <Project Name="ChallengeSolution" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
