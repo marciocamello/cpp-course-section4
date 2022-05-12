@@ -1,9 +1,0 @@
--IF:\developer\cpp\Section4\CompilerErrors
--IF:\developer\cpp\mingw-w64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++
--IF:\developer\cpp\mingw-w64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\x86_64-w64-mingw32
--IF:\developer\cpp\mingw-w64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\backward
--IF:\developer\cpp\mingw-w64\lib\gcc\x86_64-w64-mingw32\8.1.0\include
--IF:\developer\cpp\mingw-w64\lib\gcc\x86_64-w64-mingw32\8.1.0\include-fixed
--IF:\developer\cpp\mingw-w64\x86_64-w64-mingw32\include
--target
-x86_64-w64-mingw32
